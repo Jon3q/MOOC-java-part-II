@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part08_06.Nicknames" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Nicknames" />
+    <module name="Part08_06.Nicknames" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
