@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part10_07.UniqueLastNames" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="UniqueLastNames" />
+    <module name="Part10_07.UniqueLastNames" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

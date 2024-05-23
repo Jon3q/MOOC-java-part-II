@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part10_15.RegularExpressions" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="MainProgram" />
+    <module name="Part10_15.RegularExpressions" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part10_16.EnumAndIterator" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="MainProgram" />
+    <module name="Part10_16.EnumAndIterator" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part10_13.LiteracyComparison" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="LiteracyComparison" />
+    <module name="Part10_13.LiteracyComparison" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
